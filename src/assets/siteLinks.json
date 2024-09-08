@@ -10,7 +10,7 @@
     "link": "https://wujiyan.cc/"
   },
   {
-    "icon": "NavigateCircleSharp",
+    "icon": "Search",
     "name": "起始页",
     "link": "https://search.wujiyan.cc/"
   },
@@ -40,7 +40,7 @@
     "link": "https://novel.wujiyan.cc/"
   },
   {
-    "icon": "IosVideocam",
+    "icon": "Video",
     "name": "影视",
     "link": "https://movie.wujiyan.cc/"
   },
