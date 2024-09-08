@@ -43,9 +43,7 @@
 <script setup>
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
-import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode, Random } from "@vicons/fa"; // 注意使用正确的类别
-import { IosVideocam } from "@vicons/ionicons4";
-import { NavigateCircleSharp } from "@vicons/ionicons5";
+import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode, Search, Video, Random } from "@vicons/fa"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
@@ -72,9 +70,9 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
-  NavigateCircleSharp,
-  IosVideocam,
-  Random
+  Search,
+  Video,
+  Random,
 };
 
 // 链接跳转
