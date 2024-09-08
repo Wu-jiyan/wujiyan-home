@@ -72,7 +72,7 @@ const siteIcon = {
   LaptopCode,
   NavigateCircleSharp,
   IosVideocam,
-  Random,
+  Random
 };
 
 // 链接跳转
