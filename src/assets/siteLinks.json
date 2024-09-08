@@ -5,6 +5,16 @@
     "link": "https://cloud.idcef.com/"
   },
   {
+    "icon": "Compass",
+    "name": "导航页",
+    "link": "https://wujiyan.cc/"
+  },
+  {
+    "icon": "NavigateCircleSharp",
+    "name": "起始页",
+    "link": "https://search.wujiyan.cc/"
+  },
+  {
     "icon": "Blog",
     "name": "博客",
     "link": "https://blog.idcef.com/"
@@ -15,19 +25,24 @@
     "link": "https://cloud.wujiyan.cc/"
   },
   {
+    "icon": "Random",
+    "name": "今日人品",
+    "link": "https://jrrp.wujiyan.cc/"
+  },
+  {
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://music.wujiyan.cc/"
   },
     {
-    "icon": "Compass",
+    "icon": "Book",
     "name": "小说",
     "link": "https://novel.wujiyan.cc/"
   },
   {
-    "icon": "Book",
-    "name": "导航页",
-    "link": "https://wujiyan.cc/"
+    "icon": "IosVideocam",
+    "name": "影视",
+    "link": "https://movie.wujiyan.cc/"
   },
   {
     "icon": "LaptopCode",
